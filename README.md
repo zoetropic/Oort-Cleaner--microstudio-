@@ -1,6 +1,6 @@
 
 
-The code in this project was written for the ***MicroStudio*** game engine, which utilizes a unique derivative of LUA known as microscript. Many of the concepts and functions of LUA code are reflected in the microscript code, and this repo exists mostly as a window into the structure of the project that I wrote (almost) entirely from scratch. 
+The code in this project was written for the ***MicroStudio*** game engine, which utilizes a unique derivative of LUA known as *microscript*. Many of the concepts and functions of LUA code are reflected in the microscript code, and this repo exists mostly as a window into the structure of the project that I wrote (almost) entirely from scratch. 
 
 The scripts in the *screens* folder are the most abstract outside of the context of the engine, 
 
